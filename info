@@ -1,0 +1,59 @@
+
+主机名:           MYRIAA
+OS 名称:          Microsoft Windows 11 家庭中文版
+OS 版本:          10.0.22631 暂缺 Build 22631
+OS 制造商:        Microsoft Corporation
+OS 配置:          独立工作站
+OS 构建类型:      Multiprocessor Free
+注册的所有人:     Lenovo
+注册的组织:       暂缺
+产品 ID:          00342-30684-49737-AAOEM
+初始安装日期:     2023/3/19 星期日, 2:46:26
+系统启动时间:     2025/10/3 星期五, 8:11:31
+系统制造商:       LENOVO
+系统型号:         82RF
+系统类型:         x64-based PC
+处理器:           安装了 1 个处理器。
+                  [01]: Intel64 Family 6 Model 154 Stepping 3 GenuineIntel ~2300 Mhz
+BIOS 版本:        LENOVO J2CN40WW, 2022/4/15 星期五
+Windows 目录:     C:\Windows
+系统目录:         C:\Windows\system32
+启动设备:         \Device\HarddiskVolume1
+系统区域设置:     zh-cn;中文(中国)
+输入法区域设置:   zh-cn;中文(中国)
+时区:             (UTC-05:00) 东部时间(美国和加拿大)
+物理内存总量:     16,108 MB
+可用的物理内存:   5,457 MB
+虚拟内存: 最大值: 25,324 MB
+虚拟内存: 可用:   12,589 MB
+虚拟内存: 使用中: 12,735 MB
+页面文件位置:     C:\pagefile.sys
+域:               WORKGROUP
+登录服务器:       \\MYRIAA
+修补程序:         安装了 5 个修补程序。
+                  [01]: KB5064403
+                  [02]: KB5012170
+                  [03]: KB5027397
+                  [04]: KB5062552
+                  [05]: KB5063707
+网卡:             安装了 4 个 NIC。
+                  [01]: Intel(R) Wi-Fi 6E AX211 160MHz
+                      连接名:      WLAN
+                      启用 DHCP:   是
+                      DHCP 服务器: 10.101.20.20
+                      IP 地址
+                        [01]: 10.248.66.166
+                  [02]: Realtek PCIe GbE Family Controller
+                      连接名:      以太网
+                      状态:        媒体连接已中断
+                  [03]: Netease UU TAP-Win32 Adapter V9.21
+                      连接名:      以太网 2
+                      状态:        媒体连接已中断
+                  [04]: TAP-Windows Adapter V9
+                      连接名:      以太网 3
+                      状态:        媒体连接已中断
+Hyper-V 要求:     虚拟机监视器模式扩展: 是
+                  固件中已启用虚拟化: 是
+                  二级地址转换: 是
+                  数据执行保护可用: 是
+Lenovo
